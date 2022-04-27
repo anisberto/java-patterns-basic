@@ -3,7 +3,7 @@
 java Patterns Basic
 </h1>
     <h2 align="center">
-    FIXAÇÃO DE PADRÕES DE PROJETOS
+    ESTUDO DOS PADRÕES BASICOS DE PROJETOS
     </h2>
 <h4 align="center">
 Sistema de Login com Next.JS
