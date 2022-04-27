@@ -6,7 +6,7 @@ java Patterns Basic
     ESTUDO DOS PADRÕES BASICOS DE PROJETOS
     </h2>
 <h4 align="center">
-Sistema de Login com Next.JS
+Aplicação prativa em Java
 </h4>
 
 <p align="center">
