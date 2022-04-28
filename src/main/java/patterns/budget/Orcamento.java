@@ -3,6 +3,7 @@ package patterns.budget;
 import java.math.BigDecimal;
 
 import patterns.budget.situation.EmAnalise;
+import patterns.budget.situation.Finalizado;
 import patterns.budget.situation.SituacaoOrcamento;
 
 public class Orcamento {
@@ -48,6 +49,10 @@ public class Orcamento {
 	
 	public void setSituacao(SituacaoOrcamento situacao) {
 		this.situacao = situacao;
+	}
+
+	public boolean isFinalizado() {
+		return this.situacao instanceof Finalizado;
 	}
 
 }
